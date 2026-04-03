@@ -22,6 +22,10 @@ public class Grade {
             grade = "F";
         }
         System.out.printf("score %d: %s\n", score, grade);
+        
+        System.out.println("Java Github test!!!!!!");
+        
+        
     }
 }
 
