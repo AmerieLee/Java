@@ -23,7 +23,7 @@ public class Grade {
         }
         System.out.printf("score %d: %s\n", score, grade);
         
-        System.out.println("Java Github test!!!!!!");
+        System.out.println("Java Java~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!!!!!!");
         
         
     }
